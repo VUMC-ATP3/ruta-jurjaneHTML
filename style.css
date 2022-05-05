@@ -1,0 +1,39 @@
+.note{
+    color:rgb(255, 208, 0);
+    font-size: small;
+}
+
+/* pēc elementa nosaukuma */
+h3{
+    color: blue;
+    background-color: black;
+}
+ p{
+     border-style: dotted;
+ }
+
+ .full{
+     border-style: groove;
+     display: grid;;
+    
+
+    }
+    
+.left{
+    background-color: aqua;
+    width: 50%;
+    float: left;
+   
+    ;
+
+   }
+
+.right {
+    background-color: brown;
+    width: 50%;
+    float: right;
+    
+    
+
+
+   }
